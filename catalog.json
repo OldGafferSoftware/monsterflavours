@@ -1,0 +1,2386 @@
+{
+ "schemaVersion": 1,
+ "version": 1,
+ "generated": "2026-11-03",
+ "count": 155,
+ "license": "CC BY-SA 4.0",
+ "attribution": "https://github.com/OldGafferSoftware/monsterflavours#attribution",
+ "flavours": [
+  {
+   "id": "monster-energy",
+   "name": "Monster Energy",
+   "notes": "The original Monster: a sweet, tart citrus-style energy drink in the black can with the green claw logo, launched in 16-ounce cans.",
+   "status": "current",
+   "markets": [
+    "Global"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2002",
+   "update": "The original green Monster",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-lo-carb",
+   "name": "Lo-Carb",
+   "notes": "A lower-carb, lower-calorie take on the original, in the blue-claw can.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2003",
+   "update": "Low-carb original",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-assault",
+   "name": "Assault",
+   "notes": "A cola-flavoured Monster in a camouflage-print can.",
+   "status": "current",
+   "markets": null,
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2004",
+   "update": "Still on Monster's product list; hard to find in some US stores",
+   "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-khaos",
+   "name": "Khaos",
+   "notes": "An orange-heavy energy and juice blend, and the first of Monster's juice drinks.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2005-09",
+   "update": "Replaced by Juice Monster Khaotic around 2020",
+   "sourceURL": "https://sporked.com/article/monster-juice-khaotic-discontinued/",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-m-80",
+   "name": "M-80",
+   "notes": "A pineapple, cranberry and lime energy and juice blend in a silver can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007-03",
+   "update": "Renamed Ripper; gone from the US by the mid-2010s",
+   "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-heavy-metal",
+   "name": "Heavy Metal",
+   "notes": "An energy drink sold only in 32-ounce cans.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007-11",
+   "update": "Gone by the mid-2010s",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-mixxd",
+   "name": "Mixxd Punch",
+   "notes": "A cherry-led punch energy drink in a purple can, first launched as MIXXD.",
+   "status": "current",
+   "markets": null,
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007-12",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-import",
+   "name": "Import",
+   "notes": "A smoother, slightly sweeter take on the original in a 550 ml resealable can, first made for Europe.",
+   "status": "current",
+   "markets": [
+    "US",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2009-05",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-import-light",
+   "name": "Import Light",
+   "notes": "A lighter version of Import in a resealable can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2010-05",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-export",
+   "name": "Export",
+   "notes": "A variant of the original sold in some international markets.",
+   "status": "current",
+   "markets": null,
+   "availability": null,
+   "zeroSugar": false,
+   "since": null,
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-absolutely-zero",
+   "name": "Absolutely Zero",
+   "notes": "A zero-calorie, zero-sugar version of the original.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "Europe",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2010-07",
+   "update": "Replaced by Monster Energy Zero Sugar around 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-zero-sugar",
+   "name": "Zero Sugar",
+   "notes": "A zero-sugar version of the original green Monster, made to taste closer to it than earlier sugar-free versions.",
+   "status": "current",
+   "markets": [
+    "Global"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2021",
+   "update": "Replaced Absolutely Zero; US launch 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-m3",
+   "name": "M3",
+   "notes": "A super-concentrated Monster in a small glass bottle, sold mainly in Europe and Japan.",
+   "status": "current",
+   "markets": [
+    "Europe",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2010-11",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-unleaded",
+   "name": "Unleaded",
+   "notes": "A caffeine-free version of the original.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2014-08",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465915015731/a14-25746_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "ubermonster",
+   "name": "Übermonster",
+   "notes": "A non-alcoholic energy brew made by fermentation, sold in glass bottles.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2012-02",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465913016713/a12-27759_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-cuba-lima",
+   "name": "Cuba-Lima",
+   "notes": "A lime-flavoured energy drink with a cola edge.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2012-09",
+   "update": "Short-lived",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465913016713/a12-27759_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-cuba-libre",
+   "name": "Cuba Libre",
+   "notes": "A cola and lime energy drink first launched in Japan.",
+   "status": "retired",
+   "markets": [
+    "Japan",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2024",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-super-cola",
+   "name": "Super Cola",
+   "notes": "A cola energy drink made for Japan.",
+   "status": "retired",
+   "markets": [
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list by 2024",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-mule",
+   "name": "Mule",
+   "notes": "A ginger brew energy drink inspired by the Moscow Mule, in a copper-look can. Non-alcoholic.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2024",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-gronk",
+   "name": "Gronk",
+   "notes": "A limited-edition drink made with American football player Rob Gronkowski.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2016-02",
+   "update": "Limited edition",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465917013048/a17-4132_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-valentino-rossi",
+   "name": "Valentino Rossi (The Doctor)",
+   "notes": "An orange-citrus drink in a yellow can, made with MotoGP rider Valentino Rossi; also known as VR46.",
+   "status": "current",
+   "markets": [
+    "Europe",
+    "UK",
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2014-05",
+   "update": "Zero Sugar version added in 2025",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-lewis-hamilton-44",
+   "name": "Lewis Hamilton 44",
+   "notes": "The Formula 1 driver's signature drink, sold in full-sugar and zero-sugar versions.",
+   "status": "retired",
+   "markets": [
+    "UK",
+    "Europe",
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2017-04",
+   "update": "Renamed Full Throttle after the partnership ended",
+   "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-full-throttle",
+   "name": "Zero Sugar Full Throttle",
+   "notes": "A zero-sugar drink in a blue can that carries on from the Lewis Hamilton 44 drink.",
+   "status": "current",
+   "markets": null,
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2025",
+   "update": "Replaced Lewis Hamilton 44",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-lando-norris",
+   "name": "Lando Norris Zero Sugar",
+   "notes": "A zero-sugar melon and yuzu drink made with McLaren Formula 1 driver Lando Norris.",
+   "status": "current",
+   "markets": [
+    "UK",
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2025-01",
+   "update": "UK from January 2025; US nationwide from February 2026",
+   "sourceURL": "https://sporked.com/article/new-monsters-2026-nacs-news/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-electric-blue",
+   "name": "Electric Blue",
+   "notes": "A full-sugar drink in the style of the Reserve line, with a blue fruit flavour.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2025-10",
+   "update": "New in 2025",
+   "sourceURL": "https://sporked.com/article/new-monster-energy-drink-flavors-2025-news/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-orange-dreamsicle",
+   "name": "Orange Dreamsicle",
+   "notes": "Orange and vanilla cream, like an orange creamsicle. A full-sugar drink that took over from the Reserve version.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2025-10",
+   "update": "Replaced Reserve Orange Dreamsicle",
+   "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-strawberry-shot",
+   "name": "Strawberry Shot",
+   "notes": "The original Monster with a shot of strawberry, in full-sugar and zero-sugar versions.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2025",
+   "update": "Monster's first flavoured Shot",
+   "sourceURL": "https://sporked.com/article/monster-energy-is-going-full-barista-with-these-new-flavor-shot-drinks/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-vanilla-shot",
+   "name": "Vanilla Shot",
+   "notes": "The original Monster with a shot of creamy vanilla, in full-sugar and zero-sugar versions.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2026-09",
+   "update": "New in fall 2026",
+   "sourceURL": "https://www.stack3d.com/2026/09/vanilla-shot-monster-energy-drink/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-energy-ghost-m-100",
+   "name": "Ghost M-100",
+   "notes": "An exclusive limited-time energy drink sold through convenience stores.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": "Convenience stores",
+   "zeroSugar": false,
+   "since": "2015-07",
+   "update": "Limited run in 2015",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465916100960/a15-23471_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-phantom-m-100",
+   "name": "Phantom M-100",
+   "notes": "An exclusive limited-time energy drink sold through convenience stores.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": "Convenience stores",
+   "zeroSugar": false,
+   "since": "2015-07",
+   "update": "Limited run in 2015",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465916100960/a15-23471_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-energy-dragons-gold",
+   "name": "Dragon's Gold",
+   "notes": "An energy drink made for China.",
+   "status": null,
+   "markets": [
+    "China"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": null,
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465921029943/mnst-20201231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-hitman-energy-shooter",
+   "name": "Hitman Energy Shooter",
+   "notes": "A 3-ounce energy shot in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2008",
+   "update": "Line discontinued in 2010-11",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-lobo-energy-shooter",
+   "name": "LOBO Energy Shooter",
+   "notes": "A 3-ounce energy shot in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2008",
+   "update": "Line discontinued in 2010-11",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-sniper-energy-shooter",
+   "name": "Sniper Energy Shooter",
+   "notes": "A 3-ounce energy shot in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2008",
+   "update": "Line discontinued in 2010-11",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-dub-edition",
+   "name": "Dub Edition",
+   "notes": "A Monster sold in 32-ounce and later 18.6-ounce resealable cans with car-culture graphics.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2009-10",
+   "update": "Became the Punch Monster drinks",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465910010880/a10-1407_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "punch-monster-ballers-blend",
+   "name": "Punch Monster Baller's Blend",
+   "notes": "A fruit punch energy drink, first sold under the Dub Edition name.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2012-10",
+   "update": "Dropped from Monster's product list by 2020",
+   "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "discontinued": true
+  },
+  {
+   "id": "punch-monster-mad-dog",
+   "name": "Punch Monster Mad Dog",
+   "notes": "A sweet, candy-like grape punch energy drink, first sold under the Dub Edition name.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2012-10",
+   "update": "Dropped from Monster's product list by 2020",
+   "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "discontinued": true
+  },
+  {
+   "id": "nitrous-monster-anti-gravity",
+   "name": "Nitrous Anti-Gravity",
+   "notes": "An energy drink made with nitrous oxide for a smoother, creamier fizz.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2009-07",
+   "update": "Nitrous line discontinued",
+   "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "discontinued": true
+  },
+  {
+   "id": "nitrous-monster-killer-b",
+   "name": "Nitrous Killer B",
+   "notes": "A honey-flavoured energy drink made with nitrous oxide.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2009-07",
+   "update": "Nitrous line discontinued",
+   "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "discontinued": true
+  },
+  {
+   "id": "nitrous-monster-super-dry",
+   "name": "Nitrous Super Dry",
+   "notes": "A dry citrus energy drink made with nitrous oxide.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2009-07",
+   "update": "Nitrous line discontinued",
+   "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "discontinued": true
+  },
+  {
+   "id": "monster-extra-strength-black-ice",
+   "name": "Extra Strength Black Ice",
+   "notes": "An extra-strength nitrous energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2010-11",
+   "update": "Discontinued",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-maxx-super-dry",
+   "name": "Maxx Super Dry",
+   "notes": "A drier, extra-strength citrus Monster made with nitrous oxide, in a slim can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": null,
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "discontinued": true
+  },
+  {
+   "id": "monster-maxx-eclipse",
+   "name": "Maxx Eclipse",
+   "notes": "An extra-strength Monster in a slim 12-ounce can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-maxx-solaris",
+   "name": "Maxx Solaris",
+   "notes": "An extra-strength Monster with 200 mg caffeine in a slim 12-ounce can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-maxx-mango-matic",
+   "name": "Maxx Mango Matic",
+   "notes": "A zero-sugar, extra-strength mango drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-maxx-rad-red",
+   "name": "Maxx Rad Red",
+   "notes": "A zero-sugar, extra-strength red fruit drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-nitro-super-dry",
+   "name": "Nitro Super Dry",
+   "notes": "A light citrus drink made with nitrous oxide for a creamy, less fizzy finish.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Reported to be phasing out in the US by the end of 2026",
+   "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-nitro-cosmic-peach",
+   "name": "Nitro Cosmic Peach",
+   "notes": "A peach drink made with nitrous oxide.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2022",
+   "update": "Dropped from Monster's product list by 2024",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-nitro-blue-flash",
+   "name": "Nitro Blue Flash",
+   "notes": "A light blueberry drink made with nitrous oxide.",
+   "status": "current",
+   "markets": [
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2026-08",
+   "update": "New in the UK, August 2026",
+   "sourceURL": "https://scottishgrocer.co.uk/2026/07/31/monster-expands-with-new-nitro-blue-flash-flavour/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-reserve-watermelon",
+   "name": "Reserve Watermelon",
+   "notes": "A full-sugar watermelon drink in the premium Reserve line.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "Europe",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list in 2025",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-reserve-white-pineapple",
+   "name": "Reserve White Pineapple",
+   "notes": "A full-sugar white pineapple drink with mango notes in the Reserve line.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list in 2025",
+   "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "discontinued": true
+  },
+  {
+   "id": "monster-reserve-orange-dreamsicle",
+   "name": "Reserve Orange Dreamsicle",
+   "notes": "Orange and vanilla sherbet flavour in the Reserve line.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2022",
+   "update": "Replaced by Monster Orange Dreamsicle in late 2025",
+   "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "discontinued": true
+  },
+  {
+   "id": "monster-reserve-kiwi-strawberry",
+   "name": "Reserve Kiwi Strawberry",
+   "notes": "A full-sugar kiwi and strawberry drink in the Reserve line.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2023",
+   "update": "Dropped from Monster's product list in 2025",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-reserve-peaches-n-creme",
+   "name": "Reserve Peaches n' Crème",
+   "notes": "A peach and cream drink in the Reserve line.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2024",
+   "update": "Discontinued in 2025",
+   "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "discontinued": true
+  },
+  {
+   "id": "monster-zero-ultra",
+   "name": "Zero Ultra",
+   "notes": "The \"White Monster\": a light citrus drink with zero sugar and zero calories.",
+   "status": "current",
+   "markets": [
+    "Global"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2012-08",
+   "update": "Monster's best-known zero-sugar drink",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-blue",
+   "name": "Ultra Blue",
+   "notes": "A zero-sugar blue drink with a tart berry flavour.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2013-03",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-red",
+   "name": "Ultra Red",
+   "notes": "A zero-sugar mixed berry drink.",
+   "status": "current",
+   "markets": [
+    "UK",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2013-09",
+   "update": "Dropped in the US in 2025; still listed by Monster",
+   "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-black",
+   "name": "Ultra Black",
+   "notes": "A zero-sugar black cherry drink, first launched as a 7-Eleven summer promotion.",
+   "status": "limited",
+   "markets": [
+    "US"
+   ],
+   "availability": "Limited runs; Kroger-family stores (US) in fall 2025",
+   "zeroSugar": true,
+   "since": "2014-07",
+   "update": "Back for a limited time in 2025",
+   "sourceURL": "https://sporked.com/article/new-monster-energy-drink-flavors-2025-news/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-sunrise",
+   "name": "Ultra Sunrise",
+   "notes": "A zero-sugar orange and tangerine drink.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2014-09",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-citron",
+   "name": "Ultra Citron",
+   "notes": "A zero-sugar citrus drink with lighter fizz.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2015-01",
+   "update": "Discontinued in the US around 2019",
+   "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "monster-ultra-violet",
+   "name": "Ultra Violet",
+   "notes": "A zero-sugar grape drink in a violet can.",
+   "status": "current",
+   "markets": [
+    "US",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2016-12",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-paradise",
+   "name": "Ultra Paradise",
+   "notes": "A zero-sugar kiwi, lime and cucumber drink in a green can.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK",
+    "Europe",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2019",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-fiesta-mango",
+   "name": "Ultra Fiesta Mango",
+   "notes": "A zero-sugar mango drink.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2020",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-rosa",
+   "name": "Ultra Rosá",
+   "notes": "A zero-sugar pink drink with a light, fruity grapefruit and berry flavour.",
+   "status": "current",
+   "markets": [
+    "UK",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2020",
+   "update": "Dropped in the US in 2025; still sold in Europe",
+   "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-watermelon",
+   "name": "Ultra Watermelon",
+   "notes": "A zero-sugar watermelon drink.",
+   "status": null,
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2020",
+   "update": "Reported discontinued in the US, late 2025",
+   "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-golden-pineapple",
+   "name": "Ultra Golden Pineapple",
+   "notes": "A zero-sugar pineapple drink, first sold as Ultra Gold.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2021",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-peachy-keen",
+   "name": "Ultra Peachy Keen",
+   "notes": "A zero-sugar peach drink.",
+   "status": "current",
+   "markets": [
+    "US",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2022",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-strawberry-dreams",
+   "name": "Ultra Strawberry Dreams",
+   "notes": "A zero-sugar strawberry drink.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2023",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-fantasy-ruby-red",
+   "name": "Ultra Fantasy Ruby Red",
+   "notes": "A zero-sugar grapefruit drink.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2024",
+   "update": "UK launch August 2025; reported to be phasing out in the US by the end of 2026",
+   "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-vice-guava",
+   "name": "Ultra Vice Guava",
+   "notes": "A zero-sugar guava drink with retro, pastel branding.",
+   "status": "current",
+   "markets": [
+    "US",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2024",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-blue-hawaiian",
+   "name": "Ultra Blue Hawaiian",
+   "notes": "A zero-sugar tropical drink inspired by the Blue Hawaiian cocktail. Non-alcoholic.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2024",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.bevnet.com/pr/2026/05/03/monster-energy-launches-new-patriotic-flavors-and-a-summerready-pack-to-celebrate-americas-250th-birthday",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-wild-passion",
+   "name": "Ultra Wild Passion",
+   "notes": "A zero-sugar passion fruit drink.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2025-11",
+   "update": "New in late 2025",
+   "sourceURL": "https://sporked.com/article/new-monsters-2026-nacs-news/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-punk-punch",
+   "name": "Ultra Punk Punch",
+   "notes": "A zero-sugar fruit punch led by red berries and cherry, with pineapple, citrus, mango and kiwi.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2026-01",
+   "update": "Circle K first, then nationwide from March 2026",
+   "sourceURL": "https://secure.businesswire.com/news/home/20260107074493/en/Monster-Energy-Unleashes-New-Ultra-Punk-Punch-Flavor-at-Circle-K",
+   "discontinued": false
+  },
+  {
+   "id": "monster-ultra-red-white-blue-razz",
+   "name": "Ultra Red, White & Blue Razz",
+   "notes": "A zero-sugar blue raspberry drink inspired by a rocket pop.",
+   "status": "limited",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2026-01",
+   "update": "Limited-time summer release for America's 250th",
+   "sourceURL": "https://www.bevnet.com/pr/2026/05/03/monster-energy-launches-new-patriotic-flavors-and-a-summerready-pack-to-celebrate-americas-250th-birthday",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-ripper",
+   "name": "Juice Monster Ripper",
+   "notes": "A tropical energy and juice blend, carried on from M-80.",
+   "status": "current",
+   "markets": [
+    "Europe",
+    "UK",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": null,
+   "update": "Sold in Europe; not in the US",
+   "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-pipeline-punch",
+   "name": "Juice Monster Pipeline Punch",
+   "notes": "A passion fruit, orange and guava energy and juice drink with a Hawaiian theme.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK",
+    "Europe",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2015-07",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-mango-loco",
+   "name": "Juice Monster Mango Loco",
+   "notes": "A mango energy and juice drink in a blue Day of the Dead can.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK",
+    "Europe",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": null,
+   "since": "2017-05",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-pacific-punch",
+   "name": "Juice Monster Pacific Punch",
+   "notes": "A cherry-led fruit punch energy and juice drink.",
+   "status": "current",
+   "markets": [
+    "US",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-khaotic",
+   "name": "Juice Monster Khaotic",
+   "notes": "A tropical orange energy and juice drink in a yellow graffiti-style can, following on from Khaos.",
+   "status": "current",
+   "markets": [
+    "UK",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": "Being phased out in the US from early 2026, replaced by Voodoo Grape",
+   "sourceURL": "https://sporked.com/article/monster-juice-khaotic-discontinued/",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-papillon",
+   "name": "Juice Monster Papillon (Monarch)",
+   "notes": "A peach and tangerine energy and juice drink with butterfly art, sold as Monarch in some countries.",
+   "status": "current",
+   "markets": [
+    "Europe",
+    "UK",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": "Discontinued in the US; still sold as Monarch or Papillon elsewhere",
+   "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-aussie-style-lemonade",
+   "name": "Juice Monster Aussie Style Lemonade",
+   "notes": "A sour lemon energy drink in the style of Australian lemonade.",
+   "status": "current",
+   "markets": [
+    "UK",
+    "Europe",
+    "Japan"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2022",
+   "update": "Dropped in the US in 2025; still listed by Monster",
+   "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-bad-apple",
+   "name": "Juice Monster Bad Apple",
+   "notes": "A red apple energy and juice drink, first launched in the UK.",
+   "status": "current",
+   "markets": [
+    "UK",
+    "Europe",
+    "Japan",
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2024",
+   "update": "US launch October 2025",
+   "sourceURL": "https://sporked.com/article/new-monster-energy-drink-flavors-2025-news/",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-rio-punch",
+   "name": "Juice Monster Rio Punch",
+   "notes": "A papaya, vanilla and blackcurrant punch with a Brazil theme.",
+   "status": "current",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2024",
+   "update": "Reported to be phasing out in the US by the end of 2026",
+   "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-viking-berry",
+   "name": "Juice Monster Viking Berry",
+   "notes": "A mixed berry energy and juice drink with a Norse-themed can.",
+   "status": "current",
+   "markets": [
+    "UK",
+    "Europe"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2024",
+   "update": "UK launch January 2026",
+   "sourceURL": "https://www.foodmanufacture.co.uk/Article/2026/01/20/monster-is-juicing-up-its-offering-with-the-launch-of-its-new-viking-berry-flavour",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-voodoo-grape",
+   "name": "Juice Monster Voodoo Grape",
+   "notes": "A grape energy and juice drink with a Louisiana voodoo theme.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2026-02",
+   "update": "New Orleans first, then nationwide from February 2026",
+   "sourceURL": "https://sporked.com/article/monster-energy-releases-three-drinks-early/",
+   "discontinued": false
+  },
+  {
+   "id": "juice-monster-strawberry-lemonade",
+   "name": "Juice Monster Strawberry Lemonade",
+   "notes": "A fruity strawberry lemonade energy and juice drink.",
+   "status": "limited",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2026-05",
+   "update": "Limited-edition can for America's 250th",
+   "sourceURL": "https://www.bevnet.com/pr/2026/05/03/monster-energy-launches-new-patriotic-flavors-and-a-summerready-pack-to-celebrate-americas-250th-birthday",
+   "discontinued": false
+  },
+  {
+   "id": "rehab-monster-tea-lemonade",
+   "name": "Rehab Tea + Lemonade",
+   "notes": "A non-carbonated black tea and lemonade energy drink, and the first Rehab.",
+   "status": "current",
+   "markets": [
+    "US",
+    "Canada"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2011-02",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "rehab-monster-rojo-tea",
+   "name": "Rehab Rojo Tea",
+   "notes": "A non-carbonated red tea energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2011-10",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-green-tea",
+   "name": "Rehab Green Tea",
+   "notes": "A non-carbonated green tea energy drink.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2011-10",
+   "update": "Reported to be phasing out in the US by the end of 2026",
+   "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "discontinued": false
+  },
+  {
+   "id": "rehab-monster-protean",
+   "name": "Rehab Protean",
+   "notes": "A non-carbonated energy drink with added protein.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2011-10",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465912014573/a12-1309_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-orangeade",
+   "name": "Rehab Tea + Orangeade",
+   "notes": "A non-carbonated orange tea energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2012-02",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-pink-lemonade",
+   "name": "Rehab Tea + Pink Lemonade",
+   "notes": "A non-carbonated pink lemonade tea energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2013-03",
+   "update": "Discontinued by the end of the 2010s",
+   "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-peach-tea",
+   "name": "Rehab Peach Tea",
+   "notes": "A non-carbonated peach tea energy drink.",
+   "status": "current",
+   "markets": [
+    "US",
+    "Canada"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2015-01",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "rehab-monster-raspberry-tea",
+   "name": "Rehab Raspberry Tea",
+   "notes": "A non-carbonated raspberry tea energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2015-08",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-white-dragon-tea",
+   "name": "Rehab White Dragon Tea",
+   "notes": "A non-carbonated white tea and dragon fruit energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2020",
+   "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-strawberry-lemonade",
+   "name": "Rehab Strawberry Lemonade",
+   "notes": "A non-carbonated strawberry lemonade energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Discontinued in 2025",
+   "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-watermelon",
+   "name": "Rehab Watermelon",
+   "notes": "A non-carbonated watermelon energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2022",
+   "update": "Dropped from Monster's product list in 2025",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "rehab-monster-wild-berry-tea",
+   "name": "Rehab Wild Berry Tea",
+   "notes": "A non-carbonated mixed berry black tea energy drink.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2023",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "java-monster-originale",
+   "name": "Java Monster Originale",
+   "notes": "Coffee, cream and energy; one of the first three Java Monster flavours, launched as Big Black.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007-05",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-loca-moca",
+   "name": "Java Monster Loca Moca",
+   "notes": "Coffee and energy with mocha chocolate.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007-05",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "java-monster-mean-bean",
+   "name": "Java Monster Mean Bean",
+   "notes": "Coffee and energy with vanilla and cream.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007-05",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "java-monster-russian",
+   "name": "Java Monster Russian",
+   "notes": "Coffee and energy with a creamy, sweet flavour.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-chai-hai",
+   "name": "Java Monster Chai Hai",
+   "notes": "Coffee and energy with chai spice.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-nut-up",
+   "name": "Java Monster Nut Up",
+   "notes": "Coffee and energy with a nutty flavour.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-lo-ball",
+   "name": "Java Monster Lo-Ball",
+   "notes": "A lower-calorie coffee and energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-irish-blend",
+   "name": "Java Monster Irish Blend",
+   "notes": "Coffee and energy with Irish cream flavour.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2007",
+   "update": "Dropped from Monster's product list by 2024, followed by Irish Crème",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-kona-cappuccino",
+   "name": "Java Monster Kona Cappuccino",
+   "notes": "A Kona coffee cappuccino with energy.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2013-03",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465914015320/a14-2841_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-kona-blend",
+   "name": "Java Monster Kona Blend",
+   "notes": "Coffee and energy made with Kona coffee.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": null,
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-vanilla-light",
+   "name": "Java Monster Vanilla Light",
+   "notes": "A lighter vanilla coffee and energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": null,
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-salted-caramel",
+   "name": "Java Monster Salted Caramel",
+   "notes": "Coffee and energy with caramel and a hint of salt.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2016-01",
+   "update": "Still on Monster's product list",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "java-monster-swiss-chocolate",
+   "name": "Java Monster Swiss Chocolate",
+   "notes": "Coffee and energy with Swiss chocolate and cream.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-farmers-oats",
+   "name": "Java Monster Farmer's Oats",
+   "notes": "Coffee and energy made with oats.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-300-french-vanilla",
+   "name": "Java Monster 300 French Vanilla",
+   "notes": "A non-carbonated French vanilla coffee and energy drink with 300 mg caffeine.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": "Still on Monster's product list; Killer Brew took over the 300 mg range",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "java-monster-300-mocha",
+   "name": "Java Monster 300 Mocha",
+   "notes": "A non-carbonated mocha coffee and energy drink with 300 mg caffeine.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": "Replaced by Killer Brew in 2025",
+   "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-cold-brew-latte",
+   "name": "Java Monster Cold Brew Latte",
+   "notes": "A cold brew latte with energy.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2022",
+   "update": "Dropped from Monster's product list by 2024",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-cold-brew-sweet-black",
+   "name": "Java Monster Cold Brew Sweet Black",
+   "notes": "A lightly sweet black cold brew with energy.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2022",
+   "update": "Dropped from Monster's product list by 2024",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "java-monster-cafe-latte",
+   "name": "Java Monster Café Latte",
+   "notes": "A milky latte with energy.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2023",
+   "update": "Reported to be phasing out in the US by the end of 2026",
+   "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "discontinued": false
+  },
+  {
+   "id": "java-monster-irish-creme",
+   "name": "Java Monster Irish Crème",
+   "notes": "Coffee and energy with Irish cream flavour.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2024",
+   "update": "Reported to be phasing out in the US by the end of 2026",
+   "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "discontinued": false
+  },
+  {
+   "id": "monster-killer-brew-loca-moca",
+   "name": "Killer Brew Loca Moca",
+   "notes": "A 300 mg caffeine mocha coffee and energy drink.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2024",
+   "update": "Took over from Java Monster 300",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "monster-killer-brew-mean-bean",
+   "name": "Killer Brew Mean Bean",
+   "notes": "A 300 mg caffeine vanilla coffee and energy drink.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2024",
+   "update": "Took over from Java Monster 300",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "discontinued": false
+  },
+  {
+   "id": "java-monster-dubai-chocolate",
+   "name": "Java Monster Dubai Chocolate",
+   "notes": "Coffee and energy with cocoa and creamy pistachio, inspired by Dubai chocolate bars.",
+   "status": "current",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2026-10",
+   "update": "New in fall 2026",
+   "sourceURL": "https://www.prnewswire.com/news-releases/java-monster-dubai-chocolate-brings-full-on-cocoa-and-creamy-pistachio-indulgence-to-a-can-302895468.html",
+   "discontinued": false
+  },
+  {
+   "id": "x-presso-monster-hammer",
+   "name": "X-Presso Monster Hammer",
+   "notes": "A non-carbonated espresso energy drink in a small 6.75-ounce can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2009-06",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465910010880/a10-1407_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "x-presso-monster-midnite",
+   "name": "X-Presso Monster Midnite",
+   "notes": "A non-carbonated coffee energy drink in a small can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2010-11",
+   "update": "Dropped from Monster's product list by 2018",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "espresso-monster-espresso-and-cream",
+   "name": "Espresso Monster Espresso and Cream",
+   "notes": "A triple-shot espresso and cream energy drink in a small can, later called Espresso and Milk.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2017-10",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "espresso-monster-vanilla-espresso",
+   "name": "Espresso Monster Vanilla Espresso",
+   "notes": "A vanilla espresso energy drink in a small can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2017-10",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "espresso-monster-salted-caramel",
+   "name": "Espresso Monster Salted Caramel",
+   "notes": "A salted caramel espresso energy drink in a small can.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "caffe-monster-mocha",
+   "name": "Caffè Monster Mocha",
+   "notes": "A mocha cold brew coffee and energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2020",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "caffe-monster-salted-caramel",
+   "name": "Caffè Monster Salted Caramel",
+   "notes": "A salted caramel cold brew coffee and energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2020",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "caffe-monster-vanilla",
+   "name": "Caffè Monster Vanilla",
+   "notes": "A vanilla cold brew coffee and energy drink.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2020",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "muscle-monster-chocolate",
+   "name": "Muscle Monster Chocolate",
+   "notes": "A non-carbonated chocolate energy shake with 25 grams of protein.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2013-03",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "muscle-monster-vanilla",
+   "name": "Muscle Monster Vanilla",
+   "notes": "A non-carbonated vanilla energy shake with 25 grams of protein.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2013-03",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "muscle-monster-coffee",
+   "name": "Muscle Monster Coffee",
+   "notes": "A non-carbonated coffee energy shake with 25 grams of protein.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2013-03",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "muscle-monster-strawberry",
+   "name": "Muscle Monster Strawberry",
+   "notes": "A non-carbonated strawberry energy shake with 25 grams of protein.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2013-11",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "muscle-monster-peanut-butter-cup",
+   "name": "Muscle Monster Peanut Butter Cup",
+   "notes": "A non-carbonated peanut butter cup energy shake with 25 grams of protein.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2013-12",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "muscle-monster-banana",
+   "name": "Muscle Monster Banana",
+   "notes": "A non-carbonated banana energy shake with 25 grams of protein.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2015-07",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-mean-green",
+   "name": "Hydro Mean Green",
+   "notes": "A non-carbonated energy water with a lime-green citrus flavour, in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2017-05",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-manic-melon",
+   "name": "Hydro Manic Melon",
+   "notes": "A non-carbonated energy water with a melon flavour, in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2017-05",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-tropical-thunder",
+   "name": "Hydro Tropical Thunder",
+   "notes": "A non-carbonated energy water with a tropical fruit flavour, in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2017-05",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-blue-ice",
+   "name": "Hydro Blue Ice",
+   "notes": "A non-carbonated energy water with a blue raspberry flavour, in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-purple-passion",
+   "name": "Hydro Purple Passion",
+   "notes": "A non-carbonated energy water with a purple fruit flavour, in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-zero-sugar",
+   "name": "Hydro Zero Sugar",
+   "notes": "A non-carbonated energy water with no sugar, in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": true,
+   "since": "2018",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-watermelon",
+   "name": "Hydro Watermelon",
+   "notes": "A non-carbonated energy water with a watermelon flavour, in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US",
+    "UK"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-super-sport-blue-streak",
+   "name": "Hydro Super Sport Blue Streak",
+   "notes": "A non-carbonated energy and hydration drink in a large plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-super-sport-red-dawg",
+   "name": "Hydro Super Sport Red Dawg",
+   "notes": "A non-carbonated energy and hydration drink in a large plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-super-sport-killer-kiwi",
+   "name": "Hydro Super Sport Killer Kiwi",
+   "notes": "A non-carbonated energy and hydration drink in a large plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydro-super-sport-macho-mango",
+   "name": "Hydro Super Sport Macho Mango",
+   "notes": "A non-carbonated energy and hydration drink in a large plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydrosport-super-fuel-charge",
+   "name": "HydroSport Super Fuel Charge",
+   "notes": "A non-carbonated hydration and energy drink in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydrosport-super-fuel-hang-time",
+   "name": "HydroSport Super Fuel Hang Time",
+   "notes": "A non-carbonated hydration and energy drink in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-hydrosport-super-fuel-striker",
+   "name": "HydroSport Super Fuel Striker",
+   "notes": "A non-carbonated hydration and energy drink in a plastic bottle.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2022",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-dragon-tea-green-tea",
+   "name": "Dragon Tea Green Tea",
+   "notes": "A lightly carbonated brewed green tea with energy.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-dragon-tea-yerba-mate",
+   "name": "Dragon Tea Yerba Mate",
+   "notes": "A lightly carbonated brewed yerba mate with energy.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "discontinued": true
+  },
+  {
+   "id": "monster-dragon-tea-white-tea",
+   "name": "Dragon Tea White Tea",
+   "notes": "A lightly carbonated brewed white tea with energy.",
+   "status": "retired",
+   "markets": [
+    "US"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2019",
+   "update": "Dropped from Monster's product list by 2021",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-dragon-iced-tea-lemon",
+   "name": "Dragon Iced Tea Lemon",
+   "notes": "A lemon iced tea with energy, sold in some countries outside the US.",
+   "status": "retired",
+   "markets": [
+    "Brazil"
+   ],
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2020",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-dragon-iced-tea-peach",
+   "name": "Dragon Iced Tea Peach",
+   "notes": "A peach iced tea with energy, sold in some countries outside the US.",
+   "status": "retired",
+   "markets": null,
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  },
+  {
+   "id": "monster-dragon-iced-tea-raspberry",
+   "name": "Dragon Iced Tea Raspberry",
+   "notes": "A raspberry iced tea with energy, sold in some countries outside the US.",
+   "status": "retired",
+   "markets": null,
+   "availability": null,
+   "zeroSugar": false,
+   "since": "2021",
+   "update": "Dropped from Monster's product list by 2023",
+   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "discontinued": true
+  }
+ ]
+}
