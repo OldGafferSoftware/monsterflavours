@@ -54,13 +54,13 @@ Left out: other brands Monster Beverage owns (Reign, Bang, NOS, Burn, Mutant and
 
 `status` is `current`, `limited` (on sale for a limited time), `retired`, or `null` when the current status isn't known. `discontinued` repeats `status == "retired"` for older app versions that only read that field. Every field except `id` and `name` may be `null`.
 
-`changed` is the date (YYYY-MM-DD) this entry was last added or changed in the catalog. The app's "Recent changes" view lists flavours by this date. It is `null` for entries that haven't changed since this field was added on 2026-11-12 (earlier changes were filled in from the repo history).
+`changed` is the date (YYYY-MM-DD) this entry was last added or changed in the catalog. Its `update` note says what that change was. The app's "Recent changes" view lists flavours by this date. It is `null` for entries that haven't changed since this field was added on 2026-11-12 (earlier changes were filled in from the repo history).
 
 ## Rules
 
 1. Released flavours only. No upcoming, rumoured or cancelled flavours, and no alcoholic products.
 2. An `id` is permanent. Never remove or rename one: people's tastings are stored against it. A flavour that ends is marked `retired`.
-3. Any change to `flavours` raises `version` by exactly 1, and every new or changed entry gets `changed` set to the catalog's `generated` date.
+3. Any change to `flavours` raises `version` by exactly 1, and every new or changed entry gets `changed` set to the catalog's `generated` date and a new `update` note saying what changed (for example "Back on sale in the UK, November 2026").
 4. Run `python3 scripts/validate.py` before committing. It refuses a catalog that breaks these rules.
 
 ## How status was worked out
