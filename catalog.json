@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 1,
- "generated": "2026-11-03",
+ "version": 2,
+ "generated": "2026-11-12",
  "count": 155,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/monsterflavours#attribution",
@@ -19,6 +19,7 @@
    "since": "2002",
    "update": "The original green Monster",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -34,6 +35,7 @@
    "since": "2003",
    "update": "Low-carb original",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -47,6 +49,7 @@
    "since": "2004",
    "update": "Still on Monster's product list; hard to find in some US stores",
    "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -62,6 +65,7 @@
    "since": "2005-09",
    "update": "Replaced by Juice Monster Khaotic around 2020",
    "sourceURL": "https://sporked.com/article/monster-juice-khaotic-discontinued/",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -77,6 +81,7 @@
    "since": "2007-03",
    "update": "Renamed Ripper; gone from the US by the mid-2010s",
    "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -92,6 +97,7 @@
    "since": "2007-11",
    "update": "Gone by the mid-2010s",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -105,6 +111,7 @@
    "since": "2007-12",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -121,6 +128,7 @@
    "since": "2009-05",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -136,6 +144,7 @@
    "since": "2010-05",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -149,6 +158,7 @@
    "since": null,
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -166,6 +176,7 @@
    "since": "2010-07",
    "update": "Replaced by Monster Energy Zero Sugar around 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -181,6 +192,7 @@
    "since": "2021",
    "update": "Replaced Absolutely Zero; US launch 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -197,6 +209,7 @@
    "since": "2010-11",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -212,6 +225,7 @@
    "since": "2014-08",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465915015731/a14-25746_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -227,6 +241,7 @@
    "since": "2012-02",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465913016713/a12-27759_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -242,6 +257,7 @@
    "since": "2012-09",
    "update": "Short-lived",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465913016713/a12-27759_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -258,6 +274,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2024",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -273,6 +290,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list by 2024",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -289,6 +307,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2024",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -304,6 +323,7 @@
    "since": "2016-02",
    "update": "Limited edition",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465917013048/a17-4132_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -321,6 +341,7 @@
    "since": "2014-05",
    "update": "Zero Sugar version added in 2025",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -338,6 +359,7 @@
    "since": "2017-04",
    "update": "Renamed Full Throttle after the partnership ended",
    "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -351,6 +373,7 @@
    "since": "2025",
    "update": "Replaced Lewis Hamilton 44",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -367,6 +390,7 @@
    "since": "2025-01",
    "update": "UK from January 2025; US nationwide from February 2026",
    "sourceURL": "https://sporked.com/article/new-monsters-2026-nacs-news/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -382,6 +406,7 @@
    "since": "2025-10",
    "update": "New in 2025",
    "sourceURL": "https://sporked.com/article/new-monster-energy-drink-flavors-2025-news/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -397,6 +422,7 @@
    "since": "2025-10",
    "update": "Replaced Reserve Orange Dreamsicle",
    "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -412,6 +438,7 @@
    "since": "2025",
    "update": "Monster's first flavoured Shot",
    "sourceURL": "https://sporked.com/article/monster-energy-is-going-full-barista-with-these-new-flavor-shot-drinks/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -427,6 +454,7 @@
    "since": "2026-09",
    "update": "New in fall 2026",
    "sourceURL": "https://www.stack3d.com/2026/09/vanilla-shot-monster-energy-drink/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -442,6 +470,7 @@
    "since": "2015-07",
    "update": "Limited run in 2015",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465916100960/a15-23471_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -457,6 +486,7 @@
    "since": "2015-07",
    "update": "Limited run in 2015",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465916100960/a15-23471_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -472,6 +502,7 @@
    "since": "2020",
    "update": null,
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465921029943/mnst-20201231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -487,6 +518,7 @@
    "since": "2008",
    "update": "Line discontinued in 2010-11",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -502,6 +534,7 @@
    "since": "2008",
    "update": "Line discontinued in 2010-11",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -517,6 +550,7 @@
    "since": "2008",
    "update": "Line discontinued in 2010-11",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -532,6 +566,7 @@
    "since": "2009-10",
    "update": "Became the Punch Monster drinks",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465910010880/a10-1407_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -547,6 +582,7 @@
    "since": "2012-10",
    "update": "Dropped from Monster's product list by 2020",
    "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -562,6 +598,7 @@
    "since": "2012-10",
    "update": "Dropped from Monster's product list by 2020",
    "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -577,6 +614,7 @@
    "since": "2009-07",
    "update": "Nitrous line discontinued",
    "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -592,6 +630,7 @@
    "since": "2009-07",
    "update": "Nitrous line discontinued",
    "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -607,6 +646,7 @@
    "since": "2009-07",
    "update": "Nitrous line discontinued",
    "sourceURL": "https://energydrinkmania.net/en/monster_energy",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -622,6 +662,7 @@
    "since": "2010-11",
    "update": "Discontinued",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -637,6 +678,7 @@
    "since": null,
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -652,6 +694,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -667,6 +710,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -682,6 +726,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -697,6 +742,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -713,6 +759,7 @@
    "since": "2021",
    "update": "Reported to be phasing out in the US by the end of 2026",
    "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -729,6 +776,7 @@
    "since": "2022",
    "update": "Dropped from Monster's product list by 2024",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -744,6 +792,7 @@
    "since": "2026-08",
    "update": "New in the UK, August 2026",
    "sourceURL": "https://scottishgrocer.co.uk/2026/07/31/monster-expands-with-new-nitro-blue-flash-flavour/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -761,6 +810,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list in 2025",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -777,6 +827,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list in 2025",
    "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -792,6 +843,7 @@
    "since": "2022",
    "update": "Replaced by Monster Orange Dreamsicle in late 2025",
    "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -807,6 +859,7 @@
    "since": "2023",
    "update": "Dropped from Monster's product list in 2025",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -822,6 +875,7 @@
    "since": "2024",
    "update": "Discontinued in 2025",
    "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -837,6 +891,7 @@
    "since": "2012-08",
    "update": "Monster's best-known zero-sugar drink",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -854,6 +909,7 @@
    "since": "2013-03",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -870,6 +926,7 @@
    "since": "2013-09",
    "update": "Dropped in the US in 2025; still listed by Monster",
    "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -885,6 +942,7 @@
    "since": "2014-07",
    "update": "Back for a limited time in 2025",
    "sourceURL": "https://sporked.com/article/new-monster-energy-drink-flavors-2025-news/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -901,6 +959,7 @@
    "since": "2014-09",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -916,6 +975,7 @@
    "since": "2015-01",
    "update": "Discontinued in the US around 2019",
    "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -932,6 +992,7 @@
    "since": "2016-12",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -950,6 +1011,7 @@
    "since": "2019",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -967,6 +1029,7 @@
    "since": "2020",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -983,6 +1046,7 @@
    "since": "2020",
    "update": "Dropped in the US in 2025; still sold in Europe",
    "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -999,6 +1063,7 @@
    "since": "2020",
    "update": "Reported discontinued in the US, late 2025",
    "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1016,6 +1081,7 @@
    "since": "2021",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1032,6 +1098,7 @@
    "since": "2022",
    "update": "Still on Monster's product list",
    "sourceURL": "https://sporked.com/article/monster-energy-discontinued-2026/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1048,6 +1115,7 @@
    "since": "2023",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1065,6 +1133,7 @@
    "since": "2024",
    "update": "UK launch August 2025; reported to be phasing out in the US by the end of 2026",
    "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1081,6 +1150,7 @@
    "since": "2024",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1096,6 +1166,7 @@
    "since": "2024",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.bevnet.com/pr/2026/05/03/monster-energy-launches-new-patriotic-flavors-and-a-summerready-pack-to-celebrate-americas-250th-birthday",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1111,6 +1182,7 @@
    "since": "2025-11",
    "update": "New in late 2025",
    "sourceURL": "https://sporked.com/article/new-monsters-2026-nacs-news/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1126,6 +1198,7 @@
    "since": "2026-01",
    "update": "Circle K first, then nationwide from March 2026",
    "sourceURL": "https://secure.businesswire.com/news/home/20260107074493/en/Monster-Energy-Unleashes-New-Ultra-Punk-Punch-Flavor-at-Circle-K",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1141,6 +1214,7 @@
    "since": "2026-01",
    "update": "Limited-time summer release for America's 250th",
    "sourceURL": "https://www.bevnet.com/pr/2026/05/03/monster-energy-launches-new-patriotic-flavors-and-a-summerready-pack-to-celebrate-americas-250th-birthday",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1158,6 +1232,7 @@
    "since": null,
    "update": "Sold in Europe; not in the US",
    "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1176,6 +1251,7 @@
    "since": "2015-07",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1194,6 +1270,7 @@
    "since": "2017-05",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1210,6 +1287,7 @@
    "since": "2018",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1226,6 +1304,7 @@
    "since": "2020",
    "update": "Being phased out in the US from early 2026, replaced by Voodoo Grape",
    "sourceURL": "https://sporked.com/article/monster-juice-khaotic-discontinued/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1243,6 +1322,7 @@
    "since": "2020",
    "update": "Discontinued in the US; still sold as Monarch or Papillon elsewhere",
    "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1260,6 +1340,7 @@
    "since": "2022",
    "update": "Dropped in the US in 2025; still listed by Monster",
    "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1278,6 +1359,7 @@
    "since": "2024",
    "update": "US launch October 2025",
    "sourceURL": "https://sporked.com/article/new-monster-energy-drink-flavors-2025-news/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1294,6 +1376,7 @@
    "since": "2024",
    "update": "Reported to be phasing out in the US by the end of 2026",
    "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1310,6 +1393,7 @@
    "since": "2024",
    "update": "UK launch January 2026",
    "sourceURL": "https://www.foodmanufacture.co.uk/Article/2026/01/20/monster-is-juicing-up-its-offering-with-the-launch-of-its-new-viking-berry-flavour",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1325,6 +1409,7 @@
    "since": "2026-02",
    "update": "New Orleans first, then nationwide from February 2026",
    "sourceURL": "https://sporked.com/article/monster-energy-releases-three-drinks-early/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1340,6 +1425,7 @@
    "since": "2026-05",
    "update": "Limited-edition can for America's 250th",
    "sourceURL": "https://www.bevnet.com/pr/2026/05/03/monster-energy-launches-new-patriotic-flavors-and-a-summerready-pack-to-celebrate-americas-250th-birthday",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1356,6 +1442,7 @@
    "since": "2011-02",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1371,6 +1458,7 @@
    "since": "2011-10",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.historyoasis.com/post/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1386,6 +1474,7 @@
    "since": "2011-10",
    "update": "Reported to be phasing out in the US by the end of 2026",
    "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1401,6 +1490,7 @@
    "since": "2011-10",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465912014573/a12-1309_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1416,6 +1506,7 @@
    "since": "2012-02",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1431,6 +1522,7 @@
    "since": "2013-03",
    "update": "Discontinued by the end of the 2010s",
    "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1447,6 +1539,7 @@
    "since": "2015-01",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1462,6 +1555,7 @@
    "since": "2015-08",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1477,6 +1571,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2020",
    "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1492,6 +1587,7 @@
    "since": "2021",
    "update": "Discontinued in 2025",
    "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1507,6 +1603,7 @@
    "since": "2022",
    "update": "Dropped from Monster's product list in 2025",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1522,6 +1619,7 @@
    "since": "2023",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1537,6 +1635,7 @@
    "since": "2007-05",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1552,6 +1651,7 @@
    "since": "2007-05",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1567,6 +1667,7 @@
    "since": "2007-05",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1582,6 +1683,7 @@
    "since": "2007",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1597,6 +1699,7 @@
    "since": "2007",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1612,6 +1715,7 @@
    "since": "2007",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1627,6 +1731,7 @@
    "since": "2007",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000086575208000013/k123107a.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1642,6 +1747,7 @@
    "since": "2007",
    "update": "Dropped from Monster's product list by 2024, followed by Irish Crème",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1657,6 +1763,7 @@
    "since": "2013-03",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465914015320/a14-2841_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1672,6 +1779,7 @@
    "since": null,
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1687,6 +1795,7 @@
    "since": null,
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1702,6 +1811,7 @@
    "since": "2016-01",
    "update": "Still on Monster's product list",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1717,6 +1827,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.thedailymeal.com/1824853/discontinued-monster-flavors-we-may-never-see-again",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1732,6 +1843,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1747,6 +1859,7 @@
    "since": "2020",
    "update": "Still on Monster's product list; Killer Brew took over the 300 mg range",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1762,6 +1875,7 @@
    "since": "2020",
    "update": "Replaced by Killer Brew in 2025",
    "sourceURL": "https://sporked.com/article/monster-discontinuing-flavors-2025/",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1777,6 +1891,7 @@
    "since": "2022",
    "update": "Dropped from Monster's product list by 2024",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1792,6 +1907,7 @@
    "since": "2022",
    "update": "Dropped from Monster's product list by 2024",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1807,6 +1923,7 @@
    "since": "2023",
    "update": "Reported to be phasing out in the US by the end of 2026",
    "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1822,6 +1939,7 @@
    "since": "2024",
    "update": "Reported to be phasing out in the US by the end of 2026",
    "sourceURL": "https://sporked.com/article/heres-all-12-monster-energy-drinks-being-discontinued-by-2027/",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1837,6 +1955,7 @@
    "since": "2024",
    "update": "Took over from Java Monster 300",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1852,6 +1971,7 @@
    "since": "2024",
    "update": "Took over from Java Monster 300",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1867,6 +1987,7 @@
    "since": "2026-10",
    "update": "New in fall 2026",
    "sourceURL": "https://www.prnewswire.com/news-releases/java-monster-dubai-chocolate-brings-full-on-cocoa-and-creamy-pistachio-indulgence-to-a-can-302895468.html",
+   "changed": null,
    "discontinued": false
   },
   {
@@ -1882,6 +2003,7 @@
    "since": "2009-06",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465910010880/a10-1407_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1897,6 +2019,7 @@
    "since": "2010-11",
    "update": "Dropped from Monster's product list by 2018",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465911011438/a11-2375_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1912,6 +2035,7 @@
    "since": "2017-10",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1927,6 +2051,7 @@
    "since": "2017-10",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1942,6 +2067,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1957,6 +2083,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2020",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1972,6 +2099,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2020",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -1987,6 +2115,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2020",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2002,6 +2131,7 @@
    "since": "2013-03",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2017,6 +2147,7 @@
    "since": "2013-03",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2032,6 +2163,7 @@
    "since": "2013-03",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2047,6 +2179,7 @@
    "since": "2013-11",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2062,6 +2195,7 @@
    "since": "2013-12",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2077,6 +2211,7 @@
    "since": "2015-07",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2093,6 +2228,7 @@
    "since": "2017-05",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2109,6 +2245,7 @@
    "since": "2017-05",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2125,6 +2262,7 @@
    "since": "2017-05",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2141,6 +2279,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2157,6 +2296,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2173,6 +2313,7 @@
    "since": "2018",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2189,6 +2330,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2204,6 +2346,7 @@
    "since": "2020",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2219,6 +2362,7 @@
    "since": "2020",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2234,6 +2378,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2249,6 +2394,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2264,6 +2410,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2279,6 +2426,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2294,6 +2442,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2022",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2309,6 +2458,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2324,6 +2474,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.chowhound.com/2070440/discontinued-monster-energy-flavors",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2339,6 +2490,7 @@
    "since": "2019",
    "update": "Dropped from Monster's product list by 2021",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2354,6 +2506,7 @@
    "since": "2020",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2367,6 +2520,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   },
   {
@@ -2380,6 +2534,7 @@
    "since": "2021",
    "update": "Dropped from Monster's product list by 2023",
    "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm",
+   "changed": null,
    "discontinued": true
   }
  ]
