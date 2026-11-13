@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
- "version": 2,
- "generated": "2026-11-12",
+ "version": 3,
+ "generated": "2026-11-13",
  "count": 155,
  "license": "CC BY-SA 4.0",
  "attribution": "https://github.com/OldGafferSoftware/monsterflavours#attribution",
@@ -1143,14 +1143,15 @@
    "status": "current",
    "markets": [
     "US",
+    "UK",
     "Japan"
    ],
    "availability": null,
    "zeroSugar": true,
    "since": "2024",
-   "update": "Still on Monster's product list",
-   "sourceURL": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm",
-   "changed": null,
+   "update": "UK launch May 2026 (Tesco first, nationwide from July)",
+   "sourceURL": "https://scottishgrocer.co.uk/2026/05/14/ccep-brings-miami-to-the-shelves-with-monster-ultra-vice-guava/",
+   "changed": "2026-11-13",
    "discontinued": false
   },
   {
